@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anusha Kasthuri
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently Intern at Kodnest
+- 👀 I’m interested in  Java Full Stack Development
+- 🌱 I’m currently taking course at Kodnest as a java full stack Developer
 - 💞️ 
 - 📫
 
